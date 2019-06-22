@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vermillion_target" size="2.000000 2.000000" />
+    <ImageTarget name="sulfur_target" size="2.000000 2.000000" />
+    <ImageTarget name="rosin_target" size="2.000000 2.000000" />
+    <ImageTarget name="lead_target" size="2.000000 2.000000" />
+    <ImageTarget name="beeswax_target" size="2.000000 2.000000" />
+    <ImageTarget name="azurite_target" size="2.000000 2.000000" />
+  </Tracking>
+</QCARConfig>

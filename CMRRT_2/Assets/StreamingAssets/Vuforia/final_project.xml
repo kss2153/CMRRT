@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ingred6" size="3.000000 3.000000" />
+    <ImageTarget name="ingred5" size="3.000000 3.000000" />
+    <ImageTarget name="ingred4" size="3.000000 3.000000" />
+    <ImageTarget name="ingred3" size="3.000000 3.000000" />
+    <ImageTarget name="ingred2" size="3.000000 3.000000" />
+    <ImageTarget name="ingred1" size="3.000000 3.000000" />
+    <ImageTarget name="sqaure" size="5.000000 5.000000" />
+    <CylinderTarget name="pinky" sideLength="2.000000"/>
+    <CylinderTarget name="index_finger" sideLength="2.000000"/>
+  </Tracking>
+</QCARConfig>
